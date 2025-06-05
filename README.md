@@ -4,6 +4,7 @@ Always developer,,,
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%237289DA.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/sujeet_2330/)
+<\br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9) 
 
 # 💻 Tech Stack:
