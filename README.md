@@ -50,7 +50,8 @@
 
 ### 📊 GitHub Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/sujeets2330?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FCalcutta)
+![Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+
 
 ---
 
