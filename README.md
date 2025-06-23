@@ -1,6 +1,6 @@
 # 👋 I'm Sujeet A.
 
-> 🚀 Always Developer 
+> 🚀 Always Developer
 
 ---
 
@@ -35,26 +35,27 @@
 
 - 💼 Building full-stack applications with **clean architecture**
 - 🧠 Deepening skills in **Data Structures & Algorithms**
-- 🔭 Exploring scalable backend development 
-- 📈 Practicing consistent contributions.
+- 🔭 Exploring scalable backend development
+- 📈 Practicing consistent contributions
 
 ---
 
 ## 📊 GitHub Stats & Contribution Activity
 
 ### 📈 GitHub Contribution Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
 
 ### 📊 GitHub Metrics
-> _(Requires setup to auto-update — see [lowlighter/metrics](![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
-))_
 
-![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+> _Auto-updating metrics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)_
+
+![GitHub Metrics](https://metrics.lecoq.io/sujeets2330?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FCalcutta)
 
 ---
 
 ## ✍️ Favorite Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
