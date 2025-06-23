@@ -53,9 +53,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-
-## 📟 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=sujeets2330&icon=5&color=1)](https://visitcount.itsvg.in)
-
----
