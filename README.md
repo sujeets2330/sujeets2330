@@ -36,7 +36,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeets2330&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujeets2330&theme=tokyonight&hide_border=true)
+ 
 
 
 ---
