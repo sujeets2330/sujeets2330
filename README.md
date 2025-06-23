@@ -29,7 +29,7 @@
 - **Computer Networks**
 - **Database Management Systems (DBMS)**
 
----
+-------
 
 ## 📊 GitHub Stats
 
@@ -37,7 +37,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujeets2330&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeets2330&theme=radical&hide_border=false&layout=compact)
 
----
+-------
 
 ## 🔥 Coding Activity
 
@@ -46,14 +46,16 @@
 - 🔭 Exploring scalable backend development
 - 📈 Practicing consistent contributions.
 
----
+-------
+
+
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
 
 ![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
 
-
+--------
 
 
 ## ✍️ Favorite Quote
