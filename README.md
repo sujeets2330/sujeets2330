@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Sujeet A.
+# 👋 I'm Sujeet A.
 
-> Always Developer 🚀 | MERN Stack Enthusiast | Java & DSA Lover | CS Fundamentals Advocate
+> Always Developer 🚀 
 
 ---
 
