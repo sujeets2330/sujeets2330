@@ -44,11 +44,11 @@
 
 ### 📈 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
+
+---
 
 ### 📊 GitHub Metrics
-
-> _Auto-updating metrics powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)_
 
 ![GitHub Metrics](https://metrics.lecoq.io/sujeets2330?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FCalcutta)
 
