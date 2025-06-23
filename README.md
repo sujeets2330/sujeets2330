@@ -18,7 +18,7 @@
 
 ### 💡 **Programming & DSA**
 - **Java** (Core + Data Structures & Algorithms)
-- Problem Solving on LeetCode, HackerRank, GFG
+- Problem Solving on LeetCode.
 
 ### 🎨 **Frontend Technologies**
 - HTML5 | CSS3 | JavaScript (ES6+) | Responsive Design
@@ -43,8 +43,8 @@
 
 - 💼 Building full-stack applications with **clean architecture**
 - 🧠 Deepening skills in **Data Structures & Algorithms**
-- 🔭 Exploring system design and scalable backend development
-- 📈 Practicing consistent contributions on GitHub & LeetCode
+- 🔭 Exploring scalable backend development
+- 📈 Practicing consistent contributions.
 
 ---
 
