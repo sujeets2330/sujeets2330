@@ -1,63 +1,43 @@
-# 👋 I'm Sujeet A.
+# 👋 Hi, I'm Sujeet A.
 
-> 🚀 Always Developer
+🚀 Always Developer 
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300B8D9.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sujeet_2330/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sujeet_2330/)
 
 ---
 
-## 💻 Tech Stack & Core Expertise
+## 💻 Tech Stack
 
-### 🌟 MERN Stack
-- **MongoDB** | **Express.js** | **React.js** | **Node.js**
-
-### 💡 Programming & DSA
-- **Java** (Core + Data Structures & Algorithms)
-- Problem-solving on platforms like LeetCode
-
-### 🎨 Frontend Technologies
-- HTML5 | CSS3 | JavaScript (ES6+) | Responsive Design
-
-### 🧠 CS Fundamentals
-- **Object-Oriented Programming (OOP)**
-- **Operating Systems**
-- **Computer Networks**
-- **Database Management Systems (DBMS)**
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js  
+- **Java + DSA**: Strong in problem-solving & algorithms  
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)  
+- **CS Fundamentals**: OOP, OS, DBMS, Computer Networks
 
 ---
 
-## 🔥 Coding Activity
+## 🔥 What I Do
 
-- 💼 Building full-stack applications with **clean architecture**
-- 🧠 Deepening skills in **Data Structures & Algorithms**
-- 🔭 Exploring scalable backend development
-- 📈 Practicing consistent contributions
-
----
-
-## 📊 GitHub Stats & Contribution Activity
-
-### 📈 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
+- 💼 Build full-stack apps with clean architecture  
+- 🧠 Practice DSA regularly on LeetCode  
+- 🔧 Explore scalable backend development  
+- 📈 Stay consistent with GitHub contributions  
 
 ---
 
-### 📊 GitHub Metrics
+## 📊 GitHub Stats
 
-> ⚠️ This requires setup using GitHub Actions (see: [lowlighter/metrics](https://github.com/lowlighter/metrics)).  
-> Once set up, the image below will auto-update and show your GitHub stats:
-
-![Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+![Sujeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujeets2330&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeets2330&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sujeets2330&theme=tokyonight&hide_border=true)
 
 ---
 
-## ✍️ Favorite Quote
+## ✍️ Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
