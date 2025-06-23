@@ -50,8 +50,10 @@
 
 ### 📊 GitHub Metrics
 
-![Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+> ⚠️ This requires setup using GitHub Actions (see: [lowlighter/metrics](https://github.com/lowlighter/metrics)).  
+> Once set up, the image below will auto-update and show your GitHub stats:
 
+![Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
 
 ---
 
