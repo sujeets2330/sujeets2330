@@ -46,7 +46,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
 
 ### 📊 GitHub Metrics
-> _(Requires setup to auto-update — see [lowlighter/metrics](https://github.com/lowlighter/metrics))_
+> _(Requires setup to auto-update — see [lowlighter/metrics](![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+))_
 
 ![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
 
