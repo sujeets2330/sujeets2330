@@ -47,6 +47,14 @@
 - 📈 Practicing consistent contributions.
 
 ---
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujeets2330&theme=react-dark&hide_border=true)
+
+![GitHub Metrics](https://github.com/sujeets2330/sujeets2330/blob/main/github-metrics.svg)
+
+
+
 
 ## ✍️ Favorite Quote
 
