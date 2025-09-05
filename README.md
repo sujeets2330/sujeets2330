@@ -7,7 +7,9 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sujeet_2330/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sujeet_2330/)))
+
+RESUME || (https://drive.google.com/file/d/1GdGq0JJ4P1JOndMIC1bIXEJwXyEjEDbr/view?usp=drivesdk)
 
 ---
 
