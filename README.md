@@ -9,7 +9,7 @@
 - 🎯 Always exploring new technologies — from **Next.js** to **Machine Learning**  
 - 💬 Ask me about **Web Development**, **TypeScript**, or **AI integration**  
 - 📫 Reach me at: **sujeetmalagundi999@gmail.com**  
-- 📞 Phone: **+91 7204531435**  
+- 📞 Phone: **+91 7204521435**  
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9/)  
 
 ---
@@ -54,7 +54,7 @@ You can access my detailed resume here:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeets2330&theme=radical "alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeets2330&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
