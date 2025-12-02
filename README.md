@@ -7,7 +7,7 @@
 -  Passionate about **Full Stack Development** and **Artificial Intelligence**  
 -  Love blending **MERN Stack** with **AI-driven applications**  
 -  Always exploring new technologies — from **Next.js** to **Machine Learning**  
--  Ask me about **Web Development**, **TypeScript**, or **AI integration**  
+-  **AI integration**  
 -  Reach me at: **sujeetmalagundi999@gmail.com**  
 -  Phone: **+91 7204521435**  
 -  Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9/)  
