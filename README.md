@@ -12,7 +12,7 @@
 
 ###  Resume
 You can access my detailed resume here:  
-[Download Resume (PDF)](https://drive.google.com/file/d/1GdGq0JJ4P1JOndMIC1bIXEJwXyEjEDbr/view?usp=drivesdk)
+[Download Resume (PDF)](https://drive.google.com/file/d/11WtMCXVyQfk4h1Dap5PyQOrVcYRY2y1t/view?usp=drivesdk)
 
 ---
 
