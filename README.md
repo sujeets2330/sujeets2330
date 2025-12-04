@@ -4,7 +4,7 @@
 ---
 
 ###  About Me  
--  Always Developer     
+-  Never Done Coding    
 -  Reach me at: **sujeetmalagundi999@gmail.com**   
 -  Connect with me on [**LinkedIn**](https://www.linkedin.com/in/sujeet-m-a-39a86b2b9/)  
 
