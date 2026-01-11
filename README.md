@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Sujeet M A</h1>
-<h3 align="center"> Full Stack Developer | AI Enthusiast | Innovating through Code & Intelligence </h3>
+<h3 align="center"> Software Developer | Innovating through Code & Intelligence </h3>
 
 ---
 
