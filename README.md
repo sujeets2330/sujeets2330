@@ -69,6 +69,10 @@ You can access my detailed resume here:
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujeets2330/sujeets2330/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 ---
 
  **"Code. Learn. Build. Repeat."**  
