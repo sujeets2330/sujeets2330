@@ -43,16 +43,7 @@ You can access my detailed resume here:
 
 ---
 
-###  GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujeets2330&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeets2330&theme=radical" alt="GitHub Streak" />
-</p>
-
+###  GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeets2330&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -68,11 +59,6 @@ You can access my detailed resume here:
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sujeets2330/sujeets2330/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
  **"Code. Learn. Build. Repeat."**  
